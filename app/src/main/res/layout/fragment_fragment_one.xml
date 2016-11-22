@@ -14,4 +14,10 @@
         android:layout_gravity="right|top"
         android:background="@mipmap/chidoo" />
 
+    <RadioButton
+        android:text="RadioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton" />
+
 </FrameLayout>
